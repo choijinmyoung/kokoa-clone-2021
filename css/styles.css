@@ -2,9 +2,11 @@
 @import "variable.css";
 /* Components */
 @import "components/status-bar.css";
+@import "components/nav-bar.css";
 /* Screens */
 @import "screens/login.css";
 
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  height: 1000vh;
 }
